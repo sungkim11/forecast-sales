@@ -10,5 +10,5 @@ This github code repository is a companion to Medium articles:
 <BR>
 <B>Forecast Sales Using Oribit</B>
 <BR>  
-- forecast_sales_using_orbit_dlt.ipynb: Create Sales Forecast with Orbit using Damped Local Trend (DLT) model (https://sungkim11.medium.com/create-sales-forecast-with-orbit-2218056083b6)
-  - forecast_sales_using_orbit_lgt.ipynb: Create Sales Forecast with Orbit using Local Global Trend (LGT) model
+- forecast_sales_using_orbit_dlt.ipynb: Create Sales Forecast with Orbit using Damped Local Trend (DLT) model (https://sungkim11.medium.com/create-sales-forecast-with-orbit-2218056083b6) <BR>
+- forecast_sales_using_orbit_lgt.ipynb: Create Sales Forecast with Orbit using Local Global Trend (LGT) model
