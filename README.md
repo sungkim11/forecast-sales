@@ -1,6 +1,7 @@
 # forecast-sales
-<B>Forecast Sales Using Prophet</B>
+<B>Forecast Sales</B>
 <BR>
+<BR>  
 This github code repository is a companion to Medium articles:
 <BR>
 <B>Forecast Sales Using Prophet</B>
