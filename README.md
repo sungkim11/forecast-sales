@@ -1,5 +1,4 @@
 # forecast-sales
-<B>Forecast Sales</B>
 <BR>  
 This github code repository is a companion to Medium articles:
 <BR>
